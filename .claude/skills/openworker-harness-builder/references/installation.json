@@ -1,0 +1,6 @@
+{
+  "package": "@openworkerai/openworker-harness-builder",
+  "version": "0.1.0-beta.7",
+  "sdkPackage": "@openworkerai/harness-sdk",
+  "sdkVersion": "0.1.0-beta.4"
+}
